@@ -8,7 +8,6 @@ namespace ConsoleApplication
         {
             Console.WriteLine("Hello World!!!");
             Console.Beep(1000, 1000);
-			test
         }
     }
 }
